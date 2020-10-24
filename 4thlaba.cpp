@@ -26,7 +26,7 @@ int main()
 			if (i == as.length())
 			{
 				cor = 1;
-				a = stoi(as);
+				a = stod(as);
 			}
 			else
 			{
@@ -53,7 +53,7 @@ int main()
 			if (i == bs.length())
 			{
 				cor = 1;
-				b = stoi(bs);
+				b = stod(bs);
 			}
 			else
 			{
